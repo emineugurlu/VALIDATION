@@ -37,7 +37,7 @@ This isn't just a form; it's an exercise in **performance optimization** and **b
 ```bash
    git clone [https://github.com/emineugurlu/VALIDATION.git](https://github.com/emineugurlu/VALIDATION.git)
 ````
-2. **Execute**
-    ```bash
+2.## **Execute**
+ ```bash
     cd VALIDATION
     open index.html
