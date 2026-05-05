@@ -40,9 +40,3 @@ This isn't just a form; it's an exercise in **performance optimization** and **b
 2.Navigate & Open:
 cd VALIDATION
 open index.html
-
-Developed with a focus on clean code and native performance.
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/emineugurlu/VALIDATION.git](https://github.com/emineugurlu/VALIDATION.git)
