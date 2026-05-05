@@ -41,4 +41,3 @@ This isn't just a form; it's an exercise in **performance optimization** and **b
     ```bash
     cd VALIDATION
     open index.html
-````
