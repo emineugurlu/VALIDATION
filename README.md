@@ -38,5 +38,5 @@ This isn't just a form; it's an exercise in **performance optimization** and **b
    git clone [https://github.com/emineugurlu/VALIDATION.git](https://github.com/emineugurlu/VALIDATION.git)
 ````
 2.Navigate & Open:
-cd VALIDATION
-open index.html
+   cd VALIDATION
+   open index.html
